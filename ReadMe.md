@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Atena! I’m a senior at UMass Lowell studying Computer Science with a minor in Business Administration. <br>I've worked on building full stack and cloud projects, and I have internship experience working on robotics software with ROS2, C++, and Python. <br>I love creating software solutions to solve everyday problems to make life easier. 
+Hi, I’m Atena! I’m a senior at UMass Lowell studying Computer Science with a minor in Business Administration. <br>I've worked on building full stack and cloud projects, and I have internship experience working on robotics software with ROS2, C++, and Python. <br>I love creating software solutions to solve everyday problems 
 
 
 ## 🌐 Socials:
