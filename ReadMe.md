@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi, I’m Atena! I’m a senior at UMass Lowell studying Computer Science with a minor in Business Administration. <br>I've worked on building full stack and cloud projects, and I have internship experience working on robotics software with ROS2, C++, and Python.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atena-jasim/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AtenaJasim@gmail.com) 
 
